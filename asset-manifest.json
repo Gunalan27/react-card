@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gunalan27/react-card.git/static/css/main.9300b2ac.css",
+    "main.js": "/Gunalan27/react-card.git/static/js/main.90e64c00.js",
+    "index.html": "/Gunalan27/react-card.git/index.html",
+    "main.9300b2ac.css.map": "/Gunalan27/react-card.git/static/css/main.9300b2ac.css.map",
+    "main.90e64c00.js.map": "/Gunalan27/react-card.git/static/js/main.90e64c00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9300b2ac.css",
+    "static/js/main.90e64c00.js"
+  ]
+}
